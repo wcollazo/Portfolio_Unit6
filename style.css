@@ -38,3 +38,9 @@
         display: block;
       }
     }
+    
+#sans {
+  height: 70px;
+  float:left;
+}
+#project2 {float: left;}
